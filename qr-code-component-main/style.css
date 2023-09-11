@@ -41,3 +41,9 @@ body{
 .text p{
     color: hsl(220, 15%, 55%);
 }
+.attribution{
+    display: flex;
+    position: absolute;
+    align-items: baseline;
+    bottom: 20px;
+}
